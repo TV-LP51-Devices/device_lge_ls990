@@ -15,4 +15,4 @@ keyguard.no_require_sim=true
 telephony.sms.pseudo_multipart=1
 DEVICE_PROVISIONED=1
 
-ro.product.device=
+ro.product.device=ls990
